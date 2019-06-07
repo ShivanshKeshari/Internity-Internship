@@ -1,2 +1,1 @@
-# Internity-Internship
-45 days remote internship
+Data Preprocessing using Numpy and pandas 
