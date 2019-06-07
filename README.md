@@ -1,2 +1,2 @@
 # Internity-Internship
-45 days remote internship
+Basic function of matplotlib and Seaborn
